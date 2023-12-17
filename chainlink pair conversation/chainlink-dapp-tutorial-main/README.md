@@ -1,4 +1,4 @@
-#  Chainlink dApp Example
+#  Chainlink pair conversation
  A Simple example tutorial for creating a Decentralized Application using Ethereum, Chainlink Data Feeds, React and Ethers.js
 
  See the guide on the Chainlink official blog
